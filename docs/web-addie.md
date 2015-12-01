@@ -3,3 +3,4 @@
 - Fav food: Tortillas
 - Hobby: Weaving
 - Color: Silver
+- Status: Excellent
